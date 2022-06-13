@@ -16,3 +16,4 @@
 5. Optimizar ruta:
    1. Elegir punto de inicio y punto final.
    2. Al elegir puntos, generar distancia más corta.
+   3. vamos mal
